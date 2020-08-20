@@ -1,0 +1,192 @@
+body{
+    background-color: rgb(216, 216, 216);
+}
+
+.banderafrancia{
+    background-color: #EC1920;
+    height:50px;
+    width:100px;
+    margin: 8px;
+    display: inline-flex;
+}
+.azul-a{
+    background-color: #051440;
+    height: 50px;
+    width: 33.33px;
+}
+.blanco-a{
+    background-color: #FFFFFF;
+    height: 50px;
+    width: 33.33px;
+}
+.banderacolombia{
+    background-color: #fcd116;
+    height:50px;
+    width:100px;
+    margin:8px
+    
+}
+.azul-b{
+    background-color: #003893;
+    height: 15.8px;
+    width: 100px;
+    position: relative;
+    top: 21px;
+}
+.rojo-b{
+    background-color: #CE1126;
+    height: 15px;
+    width: 100px;
+    position: relative;
+    top: 19.2px;
+}
+
+.banderaespana{
+    background-color: #CE1126;
+    height:50px;
+    width:100px;
+    margin:8px
+    
+}
+.rojo-c{
+    background-color: #FABD00;
+    height: 25px;
+    width: 100px;
+    position: relative;
+    top: 12.5px;
+}
+.escudoespana{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 35px;
+    top: 155px;
+}
+
+.banderacosta{
+    background-color: #002B7F;
+    height:50px;
+    width:100px;
+    margin:8px
+    
+}
+.rojo-d{
+    background-color:#CE1126;
+    height: 18px;
+    width: 100px;
+    border-top:solid 7.5px white;
+    border-bottom:solid 7.5px white;
+    position: relative;
+    top: 9px;
+}
+.circosta{
+    background-color:white;
+    width: 13px;
+    height: 15px;
+    position: absolute;
+    border-radius: 100%;
+    top: 216px ;
+    left: 35px ;
+}
+.escudocosta{
+    width: 11px;
+    height: 13px;
+    position: absolute;
+    top: 217px ;
+    left: 36px;
+}
+
+.banderaislandia{
+    background-color: rgb(220, 30, 53);
+    height:50px;
+    width:100px;
+    margin:8px
+    
+}
+.azul-c{
+    background-color:rgb(2, 82, 156);
+    height: 18px;
+    width: 25px;
+    border-right:solid 3.5px white;
+    border-bottom:solid 3.5px white;
+    position: relative;
+    display: inline-flex;
+    
+}
+.azul-d{
+    background-color:rgb(2, 82, 156);
+    height: 18px;
+    width: 25px;
+    border-right:solid 3.5px white;
+    border-top:solid 3.5px white;
+    position: relative;
+    display: inline-flex;
+    top: 3px;
+    
+    
+   }
+    
+.azul-e{
+    background-color:rgb(2, 82, 156);
+    height: 18px;
+    width: 61px;
+    border-left:solid 3.5px white;
+    border-bottom:solid 3.5px white;
+    position: relative;
+    display: inline-flex;
+    left: 3px;
+    
+}
+.azul-f{
+    background-color:rgb(2, 82, 156);
+    height: 18px;
+    width: 61px;
+    border-left:solid 3.5px white;
+    border-top:solid 3.5px white;
+    position: relative;
+    display: inline-flex;
+    top:3px;
+    left: 3px;
+    
+}
+
+.banderajapon{
+    background-color: white;
+    height:50px;
+    width:100px;
+    margin:8px
+    
+}
+.solrojo{
+    width:40px ;
+    height:40px ;
+    background-color: rgb(188, 0,45);
+    position: relative;
+    top:5.5px ;
+    left: 30px;
+    border-radius:100%;
+}
+
+.banderachile{
+    background-color:white;
+    height:50px;
+    width:100px;
+    margin:8px
+    
+}
+.sangre{
+    height: 25px;
+    width: 100px;
+    background-color: #DC241F;
+    position: relative;
+    top:25px;
+    
+
+}
+.escudochile{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+}
+
+
